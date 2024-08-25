@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Suhaib Alam
-- 👀 I’m interested in java development, web development.
-- 🌱 I’m currently learning java, DSA.
+- 👀 I do Java(DSA), web development(MERN).
 - 💞️ Reach me @ 7088038518
