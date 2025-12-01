@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Suhaib Alam
-- 👀 I do DSA(java), web development(MERN).
+- 👀 I do DSA(java), web development(Spring Boot).
 - 💞️ Reach me @ 7088038518/ suhaibalam142@gmail.com
